@@ -1,1 +1,4 @@
-# graph<img width="1919" height="1016" alt="Screenshot 2026-02-12 234755" src="https://github.com/user-attachments/assets/57b64fd0-63f9-43dc-af2a-2027062c4efb" />
+
+
+<img width="1536" height="754" alt="graph" src="https://github.com/user-attachments/assets/18652fa4-c67e-49c0-929d-61c38e37e630" />
+
